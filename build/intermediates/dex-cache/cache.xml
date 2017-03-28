@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\MySQLTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Workspace\MySQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_73523760a3b460220fefa20f5ae63936984f396a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\MySQLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Workspace\MySQLTest\app\build\intermediates\pre-dexed\debug\classes-a94e070825e4536401e82022424a68d3f305aa11.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\MySQLTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Workspace\MySQLTest\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-eb214b0f0c65db6b0219daa9eeb20fa35b803875.jar" />
+    </item>
+    <item
+        jar="D:\Workspace\MySQLTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Workspace\MySQLTest\app\build\intermediates\pre-dexed\debug\classes-af3929fa65c9b26126c48e8e33125a60099fdb0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Iwan Prasetya\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="D:\Workspace\MySQLTest\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1-848a476bf7d166b559fc3c995e8cc91691140dfb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Iwan Prasetya\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="D:\Workspace\MySQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5.1_848a476bf7d166b559fc3c995e8cc91691140dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\MySQLTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b82b374ed3999087fd87f6fd259fa753f3c3563">
+        <dex dex="D:\Workspace\MySQLTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_89acc777d678f7e13815c8a48bb57145ae8a6e91\classes.dex" />
+    </item>
+
+</items>
